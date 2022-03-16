@@ -1,2 +1,4 @@
 # My-CV
-My CV
+
+This repo contains:
+🔥 CV 🔥
